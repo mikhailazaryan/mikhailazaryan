@@ -1,6 +1,6 @@
 ### 
 
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhailazaryan&show_icons=true&theme=great-gatsby\&hide=contribs,issues)
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhailazaryan&show_icons=true&theme=great-gatsby\&hide=stars,issues)
 
 
 <!--
