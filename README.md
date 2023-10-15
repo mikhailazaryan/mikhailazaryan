@@ -1,7 +1,8 @@
 ### 
-<p align="center">
+
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhailazaryan&show_icons=true&theme=great-gatsby\&hide=stars,issues,prs\&rank_icon=github)
-</p>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,ocaml,solidity,git" />
