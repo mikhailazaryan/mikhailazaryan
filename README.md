@@ -1,7 +1,7 @@
 ### 
 <div align="center">
 
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhailazaryan&show_icons=true&theme=great-gatsby\&hide=stars,issues,prs\&rank_icon=github)
+![Mikhail's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mikhailazaryan&show_icons=true&theme=great-gatsby\&hide=stars,issues,prs\&rank_icon=github)
 
 
   <a href="https://skillicons.dev">
