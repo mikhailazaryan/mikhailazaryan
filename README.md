@@ -5,7 +5,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,ocaml,solidity,git" />
+    <img src="https://skillicons.dev/icons?i=java,c,ocaml,fsharp,solidity,git" />
   </a>
 
 </div>
