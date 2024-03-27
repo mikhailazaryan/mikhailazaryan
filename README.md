@@ -7,7 +7,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,ocaml,solidity,typescript, graphql" />
+    <img src="https://skillicons.dev/icons?i=java,c,ocaml,solidity,typescript,graphql" />
   </a>
 
 </div>
